@@ -1,0 +1,63 @@
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] Apache Hadoop Main ................................. SUCCESS [  1.154 s]
+[INFO] Apache Hadoop Project POM .......................... SUCCESS [  0.531 s]
+[INFO] Apache Hadoop Annotations .......................... SUCCESS [  1.189 s]
+[INFO] Apache Hadoop Project Dist POM ..................... SUCCESS [  0.360 s]
+[INFO] Apache Hadoop Assemblies ........................... SUCCESS [  0.133 s]
+[INFO] Apache Hadoop Maven Plugins ........................ SUCCESS [  2.624 s]
+[INFO] Apache Hadoop MiniKDC .............................. SUCCESS [  1.945 s]
+[INFO] Apache Hadoop Auth ................................. SUCCESS [  1.930 s]
+[INFO] Apache Hadoop Auth Examples ........................ SUCCESS [  0.629 s]
+[INFO] Apache Hadoop Common ............................... SUCCESS [ 10.635 s]
+[INFO] Apache Hadoop NFS .................................. SUCCESS [  0.844 s]
+[INFO] Apache Hadoop KMS .................................. FAILURE [  2.069 s]
+[INFO] Apache Hadoop Common Project ....................... SKIPPED
+[INFO] Apache Hadoop HDFS ................................. SKIPPED
+[INFO] Apache Hadoop HttpFS ............................... SKIPPED
+[INFO] Apache Hadoop HDFS BookKeeper Journal .............. SKIPPED
+[INFO] Apache Hadoop HDFS-NFS ............................. SKIPPED
+[INFO] Apache Hadoop HDFS Project ......................... SKIPPED
+[INFO] hadoop-yarn ........................................ SKIPPED
+[INFO] hadoop-yarn-api .................................... SKIPPED
+[INFO] hadoop-yarn-common ................................. SKIPPED
+[INFO] hadoop-yarn-server ................................. SKIPPED
+[INFO] hadoop-yarn-server-common .......................... SKIPPED
+[INFO] hadoop-yarn-server-nodemanager ..................... SKIPPED
+[INFO] hadoop-yarn-server-web-proxy ....................... SKIPPED
+[INFO] hadoop-yarn-server-applicationhistoryservice ....... SKIPPED
+[INFO] hadoop-yarn-server-resourcemanager ................. SKIPPED
+[INFO] hadoop-yarn-server-tests ........................... SKIPPED
+[INFO] hadoop-yarn-client ................................. SKIPPED
+[INFO] hadoop-yarn-applications ........................... SKIPPED
+[INFO] hadoop-yarn-applications-distributedshell .......... SKIPPED
+[INFO] hadoop-yarn-applications-unmanaged-am-launcher ..... SKIPPED
+[INFO] hadoop-yarn-site ................................... SKIPPED
+[INFO] hadoop-yarn-project ................................ SKIPPED
+[INFO] hadoop-mapreduce-client ............................ SKIPPED
+[INFO] hadoop-mapreduce-client-core ....................... SKIPPED
+[INFO] hadoop-mapreduce-client-common ..................... SKIPPED
+[INFO] hadoop-mapreduce-client-shuffle .................... SKIPPED
+[INFO] hadoop-mapreduce-client-app ........................ SKIPPED
+[INFO] hadoop-mapreduce-client-hs ......................... SKIPPED
+[INFO] hadoop-mapreduce-client-jobclient .................. SKIPPED
+[INFO] hadoop-mapreduce-client-hs-plugins ................. SKIPPED
+[INFO] Apache Hadoop MapReduce Examples ................... SKIPPED
+[INFO] hadoop-mapreduce ................................... SKIPPED
+[INFO] Apache Hadoop MapReduce Streaming .................. SKIPPED
+[INFO] Apache Hadoop Distributed Copy ..................... SKIPPED
+[INFO] Apache Hadoop Archives ............................. SKIPPED
+[INFO] Apache Hadoop Rumen ................................ SKIPPED
+[INFO] Apache Hadoop Gridmix .............................. SKIPPED
+[INFO] Apache Hadoop Data Join ............................ SKIPPED
+[INFO] Apache Hadoop Extras ............................... SKIPPED
+[INFO] Apache Hadoop Pipes ................................ SKIPPED
+[INFO] Apache Hadoop OpenStack support .................... SKIPPED
+[INFO] Apache Hadoop Azure support ........................ SKIPPED
+[INFO] Apache Hadoop Client ............................... SKIPPED
+[INFO] Apache Hadoop Mini-Cluster ......................... SKIPPED
+[INFO] Apache Hadoop Scheduler Load Simulator ............. SKIPPED
+[INFO] Apache Hadoop Tools Dist ........................... SKIPPED
+[INFO] Apache Hadoop Tools ................................ SKIPPED
+[INFO] Apache Hadoop Distribution ......................... SKIPPED
